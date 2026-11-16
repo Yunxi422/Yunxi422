@@ -25,11 +25,13 @@ motto:    先拆开, 再理解; 先复现, 再收尾
 
 ## `$ ls ./focus`
 
-> **Exploit & Pwn** —— 栈/堆利用、ROP、沙箱逃逸、Android 内核提权链
-> **Reverse** —— 静态/动态分析、脱壳、虚拟机混淆、协议还原
-> **Crypto** —— 古典密码、RSA/ECC 格攻击、Padding Oracle、PRNG 预测
-> **Forensics** —— PCAP 流量、内存镜像、磁盘镜像、日志时间线
-> **Web** —— 注入、反序列化、SSRF、鉴权绕过
+| 方向 | 内容 |
+| :--- | :--- |
+| **Exploit / Pwn** | 栈与堆利用、ROP、沙箱逃逸、Android 内核提权链 |
+| **Reverse** | 静态 / 动态分析、脱壳、虚拟机混淆、协议还原 |
+| **Crypto** | 古典密码、RSA / ECC 格攻击、Padding Oracle、PRNG 预测 |
+| **Forensics** | PCAP 流量、内存镜像、磁盘镜像、日志时间线 |
+| **Web** | 注入、反序列化、SSRF、鉴权绕过 |
 
 <br />
 
